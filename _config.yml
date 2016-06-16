@@ -1,0 +1,14 @@
+layout_spectrum: 0.9179449744988233
+typography_spectrum: 0.5821388564072549
+color:
+  brandStrength: 0.20178366196341813
+  lightness: 0.2937121472787112
+  saturation: 0.48764443024992943
+  rhythmicContrast: 0.23686631373129785
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Intentio
