@@ -6,9 +6,9 @@ color:
   saturation: 0.48764443024992943
   rhythmicContrast: 0.23686631373129785
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Intentio
